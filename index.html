@@ -47,6 +47,14 @@
 </head>
 
 <body>
+  <script>
+    // Очистка кеша при загрузке
+    if ('caches' in window) {
+      caches.keys().then(function (names) {
+        for (let name of names) caches.delete(name);
+      });
+    }
+  </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 
