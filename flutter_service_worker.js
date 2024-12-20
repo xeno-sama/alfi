@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "dac6128a2bc857011705966e113ee0d6",
+const RESOURCES = {"flutter_bootstrap.js": "726d17b145372740e2963a4db56ba4d8",
 "version.json": "3d2ae1201680513a199a7a8b5dbc2c48",
 "index.html": "7027a8c7fd540d523fa86a76a0e41a31",
 "/": "7027a8c7fd540d523fa86a76a0e41a31",
-"main.dart.js": "c128c421d45243ead3beaf038b63cc58",
+"main.dart.js": "ac03e2d02e40734e2e6a912d05f19bfb",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -41,7 +41,7 @@ const RESOURCES = {"flutter_bootstrap.js": "dac6128a2bc857011705966e113ee0d6",
 "assets/assets/rive/blog.riv": "5482f811c0b53963b550df318eb49fd1",
 "assets/assets/rive/planets.riv": "cd4cd0552ae5a8338b286064cf8ecfff",
 "assets/assets/rive/model_pic_1_ru.riv": "b030428abbb66028d22aff80d60229c2",
-"assets/assets/rive/zodiak.riv": "f4875fbe87380f714296771d5925389b",
+"assets/assets/rive/zodiak.riv": "1734a52a40ffabe8edaa0c713fc25e7a",
 "assets/assets/rive/model_pic_1_en.riv": "fe44c63772e087761fc047f976078fc9",
 "assets/assets/rive/solar.riv": "3efb777fe37c53017c4b3ee5dffbad03",
 "assets/assets/banner_intro.jpg": "1e3789d32952a2844b8e402878eb9839",
