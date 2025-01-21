@@ -98,6 +98,15 @@
     });
   </script>
   <script src="flutter_bootstrap.js" async></script>
+  <!-- Добавляем sql.js -->
+  <!-- <script src="sql.js/sql-wasm.js"></script>
+  <script>
+    var sqlPromise = initSqlJs({
+      locateFile: file => 'sql.js/' + file
+    });
+    window.sqlite3InitModule = sqlPromise;
+  </script> -->
+  <script src="main.dart.js" defer></script>
 </body>
 
 </html>
