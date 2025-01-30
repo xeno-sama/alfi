@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "037a457fce15edd46e7789fabed61ec2",
+const RESOURCES = {"flutter_bootstrap.js": "7010c2bc8ca797114fe5c8c259f82eab",
 "version.json": "3d2ae1201680513a199a7a8b5dbc2c48",
 "index.html": "f29ec009b05f47c0f1e76405fb8cedc2",
 "/": "f29ec009b05f47c0f1e76405fb8cedc2",
-"main.dart.js": "d8c712027b04c66a8907da50c985b5e6",
+"main.dart.js": "8c937b7f4f8f7ab18a7b0255ae389ba9",
 "sqlite3.wasm": "78498ab7d022b0069cdf876adf5b1515",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -27,7 +27,7 @@ const RESOURCES = {"flutter_bootstrap.js": "037a457fce15edd46e7789fabed61ec2",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "07c7d62f22820e2729889f13689d6a84",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "3d5eef602bf8ecd89961344460e9551c",
-"assets/fonts/MaterialIcons-Regular.otf": "e86b38a5552391f8d17c5991bc39aff6",
+"assets/fonts/MaterialIcons-Regular.otf": "3d3ef71b9028a512217c2bc6892389f6",
 "assets/assets/images/Trump-13072024.png": "bd507fe137390da5b7a619c5030a4291",
 "assets/assets/images/8starSpeak.jpg": "c9db046652d29fb1163e1b3065452bfe",
 "assets/assets/images/9endBegin.jpg": "993b4298280213dce9f4326b774fc75d",
