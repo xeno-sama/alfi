@@ -7,3 +7,6 @@ git push origin main
 git add .
 git commit -m "fix"
 git push origin main
+git add .
+git commit -m "fix"
+git push origin main
